@@ -77,3 +77,6 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 ## Illustrations
 ![JsonPowerDB](Login2Xplore/images/jpdb.png)
 ![Student enrollment form](Login2Xplore/images/student-enrollment-form.png)
+
+## Project Status
+- Completed
