@@ -18,7 +18,7 @@ It is a student registration form that saves the user's information in JSONPower
 
 ## JsonPowerDB
 
-### Version: 1.0
+### Version: 0.3.2 / 2024-05-23
 
 #### Execute API
 
