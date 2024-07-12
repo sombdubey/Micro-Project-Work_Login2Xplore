@@ -73,3 +73,7 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 
 **Server:** 
 >JsonPowerDB
+
+## Illustrations
+![JsonPowerDB](images/jpdb.png)
+![Student enrollment form](images/student-enrollment-form.png)
